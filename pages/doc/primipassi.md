@@ -145,10 +145,7 @@ Lotus Word Pro**
 
 prima dei due punti
 
-* Applica a tut.Carica su Classroom il file appena scaricato. Il nome corretto dovrebbe
-essere “Cognome - Primi passi.pdf”
-
-to il testo (ma non al titolo) l’allineamento **giustificato**
+* Applica a tutto il testo (ma non al titolo) l’allineamento **giustificato**
 
 ---
 level: 2
