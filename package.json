@@ -2,7 +2,7 @@
   "name": "Omar office",
   "private": true,
   "scripts": {
-    "build": "slidev build && sed -i s=/assets/index=/internetoffice/assets/index=g dist/*.html && mv dist/office/images dist",
+    "build": "slidev build && sed -i s=/assets/index=/office/assets/index=g dist/*.html && mv dist/office/images dist",
     "dev": "slidev --open",
     "export": "slidev export",
     "deploy": "sed -i s=https://cdn.jsdelivr.net/gh/slidevjs/slidev/assets/favicon.png=/internet/images/solerosso.svg=g dist/*.html && gh-pages -d dist"
