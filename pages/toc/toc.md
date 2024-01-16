@@ -1,10 +1,11 @@
 ---
-hideInToc: true
+hideInToc: false
 level: 2
+title: Table of Contents
 ---
 
-# Table of Contents
+# Contenuti del corso 
 
-Course lecture slides for IRM1005 | ITEC1005
+Corso di Tecnologie Informatiche di Office Automation
 
 <Toc columns="2" maxDepth="1" minDepth="1" mode="all" />

@@ -1,15 +1,19 @@
 ---
 layout: cover
-background: https://images.unsplash.com/photo-1639755507638-e34150b56db2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80
+background: >-
+  https://media.gettyimages.com/id/1327611460/it/foto/interno-di-un-moderno-lussuoso-spazio-per-uffici-di-co-working-open-space.jpg?s=612x612&w=0&k=20&c=GXNeWQ7EHO6xEyzBn0lG47KTjx8JmxZg8fx-Qhx7ZEo=
 hideInToc: true
 level: 2
+title: Welcome!
+
 ---
 
-# Welcome!
+# BENVENUTI all' OMAR Office!
 
-IRM1005 | ITEC1005 - Web Development
+Corso di Tecnologie Informatiche di Office Automation
 
 <!-- Add date to bottom of the page -->
 <div class="absolute bottom-0 ">
-<p class="opacity-50 text-xs">Fall 2023</p>
+<p class="opacity-50 text-xs">AS 2023-2024</p>
 </div>
+

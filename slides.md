@@ -12,7 +12,7 @@ info: |
 # Transition
 transition: slide-left
 # Page Title
-title: Welcome to Slidev
+title: Office
 # Entry point for all of the actual pages
-src: ./pages/_slides.md
+src: ./pages/_office.md
 ---
