@@ -52,10 +52,10 @@ Via Ariano, 35
 ---
 level: 2
 layout: two-cols-header
-title: Interlinea & WordArt
+title: Istruzioni di formattazione
 
 ---
-## Interlinea & Font
+## Istruzioni di formattazione
 
 ::left::
 FONT: Cambria 11 pt
